@@ -55,7 +55,7 @@ function Vendors() {
                 className=" w-[90dvw] h-[75dvh] rounded-md object-cover aspect-\[3\/4\] m-auto"
               />
               <CardFooter className="flex flex-col items-center">
-                <CardTitle className="fontText">{item.name}</CardTitle>
+                <CardTitle className="fontText my-2">{item.name}</CardTitle>
                 <CardDescription className="fontText text-sm">
                   {item.address}
                 </CardDescription>

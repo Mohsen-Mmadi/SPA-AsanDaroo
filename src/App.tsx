@@ -6,6 +6,7 @@ import "@/index.css";
 import Navbar from "@/components/Navbar";
 import Herosection from "@/components/HeroSection";
 import Vendors from "@/components/Vendors";
+import Footer from "@/components/Footer";
 function App() {
   return (
     <>
@@ -15,7 +16,7 @@ function App() {
         <main>
           <Vendors />
         </main>
-        <footer></footer>
+        <Footer/>
       </div>
     </>
   );
