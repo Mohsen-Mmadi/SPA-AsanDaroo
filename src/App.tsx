@@ -7,6 +7,7 @@ import Navbar from "@/components/Navbar";
 import Herosection from "@/components/HeroSection";
 import Vendors from "@/components/Vendors";
 import Footer from "@/components/Footer";
+import NavbarDown from "@/components/NavbarDown";
 function App() {
   return (
     <>
@@ -17,6 +18,7 @@ function App() {
           <Vendors />
         </main>
         <Footer/>
+        <NavbarDown />
       </div>
     </>
   );
