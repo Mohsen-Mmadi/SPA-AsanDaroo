@@ -4,5 +4,13 @@
 }
 @font-face {
     font-family: fontTitr;
-    src: url("/src/assets/Fonts/IranSans.TTF") format('truetype');
+    src: url("/src/assets/Fonts/Yekan.TTF") format('truetype');
+}
+.fontText{
+    font-family: fontText;
+    font-weight: bold;
+}
+.fontTitr{
+    font-family: fontTitr;
+    font-weight: bold;
 }
